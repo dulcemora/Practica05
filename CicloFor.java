@@ -1,10 +1,10 @@
-/*Clase Ciclo For donde damos los numeros primos de 1 a 1000 utilizando el ciclo for
+/**Clase Ciclo For donde damos los numeros primos de 1 a 1000 utilizando el ciclo for
 *@version 1.0
-*/
+**/
 public class CicloFor {
-    /*Metodo principal donde determinamos que numeros son primos entre 1 y 1000
+    /**Metodo principal donde determinamos que numeros son primos entre 1 y 1000
     *@param args Argumentos
-    */    
+    **/    
     public static void main (String [] args){
 
 	System .out.print("Todos los números primos que hay entre 0 y 1000 son: ");

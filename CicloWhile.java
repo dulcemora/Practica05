@@ -1,10 +1,10 @@
-/*Clase Ciclo While donde damos los numeros primos de 1 a 1000 utilizando el ciclo do while
+/**Clase Ciclo While donde damos los numeros primos de 1 a 1000 utilizando el ciclo do while
 *@version 1.0
-*/
+**/
 public class CicloWhile{
-    /*Metodo principal donde determinamos que numeros son primos entre 1 y 1000
+    /**Metodo principal donde determinamos que numeros son primos entre 1 y 1000
     *@param args Argumentos
-    */    
+    **/    
     public static void main (String[] args){
 
 	//Se declaran dos variables de tipo entero y una booleana

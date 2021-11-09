@@ -1,10 +1,10 @@
-/*Clase Primitivo donde damos los tipos de datos primitivos de java y su tamaño
+/**Clase Primitivo donde damos los tipos de datos primitivos de java y su tamaño
 *@version 1.0
-*/
+**/
 public class Primitivo {
-    /*Metodo principal donde se imprimen los tipos de datos primitivos de java con su tamaño en bytes
+    /**Metodo principal donde se imprimen los tipos de datos primitivos de java con su tamaño en bytes
     *@param args Argumentos
-    */    
+    **/    
     public static void main (String [] args){
 
 	System.out.println("***Tipos primitivos***");

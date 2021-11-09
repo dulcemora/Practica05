@@ -1,10 +1,10 @@
-/*Clase Cilindro donde calculamos area y volumen de un cilindro
+/**Clase Cilindro donde calculamos area y volumen de un cilindro
 *@version 1.0
-*/
+**/
 public class Cilindro {
-    /*Metodo principal donde calculamos area y volumen de un cilindro con valores dados
+    /**Metodo principal donde calculamos area y volumen de un cilindro con valores dados
     *@param args Argumentos
-    */
+    **/
     public static void main (String [] args) {
 
 	//Se declaran dos variables de tipo entero que guardan radio y altura respectivamente

@@ -1,6 +1,6 @@
-/*Clase Condicionales donde a partir de dos numeros decidimos cual es mayor
+/**Clase Condicionales donde a partir de dos numeros decidimos cual es mayor
 *@version 1.0
-*/
+**/
 import java.util.Scanner;
 
 public class Condicionales {
@@ -15,7 +15,7 @@ public class Condicionales {
 	    System.out.print("Dame el número 2: ");
 	    double n2 = in.nextDouble();
 
-	    /*Determinamos cual de los dos numeros es mayor y lo imprimimos con la leyenda "El numero mayor es n"*/
+	    //Determinamos cual de los dos numeros es mayor y lo imprimimos con la leyenda "El numero mayor es n"
 	    if(n1 > n2){
 	    System.out.println("El número con mayor valor es: " +n1);
 	    }else{
